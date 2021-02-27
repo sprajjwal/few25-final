@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(184, 239, 249);
+  padding: 2em;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  padding: 0.5em;
+}
+
+#data {
+  margin: 1em;
+}
